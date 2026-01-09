@@ -18,8 +18,7 @@
                  version="1.1.2" />
       <sparkle:version>1.1.2</sparkle:version>
       <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
-      <sparkle:criticalUpdate sparkle:version="1.1.2">false</sparkle:criticalUpdate>
-      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate sparkle:version="1.1.2">true</sparkle:criticalUpdate>
     </item>
     
     <item>
@@ -40,7 +39,6 @@
       <sparkle:version>1.1.1</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:criticalUpdate sparkle:version="1.1.1">false</sparkle:criticalUpdate>
-      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
 </rss>
