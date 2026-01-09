@@ -1,0 +1,1 @@
+Simple public repo containing appcast configurations
