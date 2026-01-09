@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UNYQ App</title>
+    <link>https://apps.apple.com/es/app/unyq-app/id6743397132</link>
+    <description>UNYQ App Updates</description>
+    <language>en</language>
+    
+    <item>
+      <title>Version 1.1.2</title>
+      <description>
+        (dev version)
+      </description>
+      <pubDate>Fri, 09 Jan 2026 10:00:00 +0100</pubDate>
+      <link>https://apps.apple.com/es/app/unyq-app/id6743397132</link>
+      <enclosure url="https://apps.apple.com/es/app/unyq-app/id6743397132" 
+                 type="application/vnd.apple.installer+xml" 
+                 version="1.1.2" />
+      <sparkle:version>1.1.2</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:criticalUpdate sparkle:version="1.1.2">false</sparkle:criticalUpdate>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    </item>
+    
+    <item>
+      <title>Version 1.1.1</title>
+      <description>
+        - Compatibility with new 2026 product structures.
+        - New capabilities for selecting color combinations.
+        - Improvements to the ordering process and to photo upload speed during ordering.
+        - New, clearer order completion screens.
+        - Improved visibility on terminals when using enlarged UI sizes via the operating system’s Accessibility settings.
+        - Minor stability improvements and bug fixes.
+      </description>
+      <pubDate>Mon, 01 Jan 2026 10:00:00 +0100</pubDate>
+      <link>https://apps.apple.com/es/app/unyq-app/id6743397132</link>
+      <enclosure url="https://apps.apple.com/es/app/unyq-app/id6743397132" 
+                 type="application/vnd.apple.installer+xml" 
+                 version="1.1.1" />
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:criticalUpdate sparkle:version="1.1.1">false</sparkle:criticalUpdate>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>

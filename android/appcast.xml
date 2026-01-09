@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UNYQ App</title>
+    <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+    <description>UNYQ App Updates</description>
+    <language>en</language>
+    
+    <item>
+      <title>Version 1.1.2</title>
+      <description>
+        (dev version)
+      </description>
+      <pubDate>Fri, 09 Jan 2026 10:00:00 +0100</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix" 
+                 type="application/vnd.android.package-archive" 
+                 version="1.1.2" />
+    </item>
+    
+    <item>
+      <title>Version 1.1.1</title>
+      <description>
+        - Compatibility with new 2026 product structures.
+        - New capabilities for selecting color combinations.
+        - Improvements to the ordering process and to photo upload speed during ordering.
+        - New, clearer order completion screens.
+        - Improved visibility on terminals when using enlarged UI sizes via the operating system’s Accessibility settings.
+        - Minor stability improvements and bug fixes.
+      </description>
+      <pubDate>Mon, 01 Jan 2026 10:00:00 +0100</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix" 
+                 type="application/vnd.android.package-archive" 
+                 version="1.1.1" />
+    </item>
+  </channel>
+</rss>
