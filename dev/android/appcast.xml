@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UNYQ App</title>
+    <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+    <description>UNYQ App Updates</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 1.1.3</title>
+      <description>
+        (pending description)
+      </description>
+      <pubDate>Fri, 24 Apr 2026 11:13:15 +0200</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix"
+                 type="application/vnd.android.package-archive"
+                 version="1.1.3" />
+      <sparkle:version>1.1.3</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:tags>
+        <sparkle:criticalUpdate />
+      </sparkle:tags>
+    </item>
+  </channel>
+</rss>
