@@ -7,6 +7,25 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.4</title>
+      <description>
+        - Fixes to the retake process, which in certain conditions prevented continuing the process.
+        - UI Enhancements to the retake process, to clarify the processing process after the last photo is taken.
+        - Various minor corrections and improvements in application stability.
+      </description>
+      <pubDate>Tue, 05 May 2026 11:10:00 +0200</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix"
+                 type="application/vnd.android.package-archive"
+                 version="1.1.4" />
+      <sparkle:version>1.1.4</sparkle:version>
+      <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+      <sparkle:tags>
+        <sparkle:criticalUpdate />
+      </sparkle:tags>
+    </item>
+
+    <item>
       <title>Version 1.1.3</title>
       <description>
         (pending description)
