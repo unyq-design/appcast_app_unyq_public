@@ -6,6 +6,29 @@
     <description>UNYQ App Updates</description>
     <language>en</language>
 
+
+    <item>
+      <title>Version 1.1.5</title>
+      <description>
+        - Improved stability of the Retake process.
+        - Improved camera behavior on iPad.
+        - Screen now stays active during the entire photo capture process, preventing auto-lock interruptions in automatic mode.
+        - Optimized data loading for retake photo information
+        - Fixed a display issue where order product images could briefly appear empty on the home screen.
+        - General stability improvements and bug fixes.
+      </description>
+      <pubDate>Fri, 15 May 2026 08:45:10 +0200</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix"
+                 type="application/vnd.android.package-archive"
+                 version="1.1.5" />
+      <sparkle:version>1.1.5</sparkle:version>
+      <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+      <sparkle:tags>
+        <sparkle:criticalUpdate />
+      </sparkle:tags>
+    </item>
+
     <item>
       <title>Version 1.1.4</title>
       <description>
