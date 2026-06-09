@@ -7,6 +7,22 @@
     <language>en</language>
 
 
+
+    <item>
+      <title>Version 1.1.6</title>
+      <description>
+        - Stability improvements.
+        - Minor bug fixes.
+        - Added support for actionable banners on the home screen.
+      </description>
+      <pubDate>Tue, 04 Jun 2026 11:22:10 +0200</pubDate>
+      <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix"
+                 type="application/vnd.android.package-archive"
+                 version="1.1.6" />
+      <sparkle:version>1.1.6</sparkle:version>
+      <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+    </item>
     <item>
       <title>Version 1.1.5</title>
       <description>
