@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UNYQ App</title>
+    <link>https://github.com/unyq-design/appcast_app_unyq_public/tree/main/dev/macos</link>
+    <description>UNYQ App Updates (macOS - dev)</description>
+    <language>en</language>
+
+    <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+      <title>UNYQ App 1.1.9</title>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.9-52.dmg" type="application/octet-stream" length="24195689" sparkle:os="macos" sparkle:edSignature="WKXC/Ny4QrfZ1mDVYqzr6Jf8LYjRpGulcPwVYRW9hmltMno9DeS7GfvKj/TlSE8gK19E1ECRQbeqRuhZw2K/CQ==" />
+    </item>
+
+  </channel>
+</rss>
