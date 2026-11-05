@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" ?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:unyq="https://unyq.com/appcast">
   <channel>
     <title>UNYQ App</title>
     <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
@@ -7,7 +6,7 @@
     <language>en</language>
 
 
-    <item>
+    <item><title>Version 1.1.16</title><link>https://appdistribution.firebase.google.com/testerapps/1:123241644300:android:d825b4f0e6816df0cb0929/releases/62vp8rhak8q38</link><enclosure url="https://appdistribution.firebase.google.com/testerapps/1:123241644300:android:d825b4f0e6816df0cb0929/releases/62vp8rhak8q38" type="application/vnd.android.package-archive" version="1.1.16"/><sparkle:version>1.1.16</sparkle:version><sparkle:shortVersionString>1.1.16</sparkle:shortVersionString><unyq:build>58</unyq:build></item><item>
       <title>Version 1.1.5</title>
       <description>
         - Improved stability of the Retake process.
@@ -19,13 +18,11 @@
       </description>
       <pubDate>Fri, 15 May 2026 08:45:50 +0200</pubDate>
       <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix"
-                 type="application/vnd.android.package-archive"
-                 version="1.1.5" />
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix" type="application/vnd.android.package-archive" version="1.1.5"/>
       <sparkle:version>1.1.5</sparkle:version>
       <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
 
@@ -38,13 +35,11 @@
       </description>
       <pubDate>Tue, 05 May 2026 11:10:00 +0200</pubDate>
       <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix"
-                 type="application/vnd.android.package-archive"
-                 version="1.1.4" />
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix" type="application/vnd.android.package-archive" version="1.1.4"/>
       <sparkle:version>1.1.4</sparkle:version>
       <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
 
@@ -55,13 +50,11 @@
       </description>
       <pubDate>Fri, 24 Apr 2026 11:13:15 +0200</pubDate>
       <link>https://play.google.com/store/apps/details?id=com.unyq.fenix</link>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix"
-                 type="application/vnd.android.package-archive"
-                 version="1.1.3" />
+      <enclosure url="https://play.google.com/store/apps/details?id=com.unyq.fenix" type="application/vnd.android.package-archive" version="1.1.3"/>
       <sparkle:version>1.1.3</sparkle:version>
       <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
   </channel>
