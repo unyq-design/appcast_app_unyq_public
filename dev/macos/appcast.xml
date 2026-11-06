@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" ?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>UNYQ App</title>
     <link>https://github.com/unyq-design/appcast_app_unyq_public/tree/main/dev/macos</link>
@@ -7,12 +6,17 @@
     <language>en</language>
 
     <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <title>UNYQ App 1.1.17</title>
+  <sparkle:version>59</sparkle:version>
+  <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
+  <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.17-59.dmg" type="application/octet-stream" length="24252312" sparkle:os="macos" sparkle:edSignature="fCSrxrEitvYyC73dYy0MzWoE2uiDRvFKuSMn8f9tehmRGqw/FS3pnCcD4LyTZYxMX4OACpxr+L05lLS2p/vTDQ=="/>
+</item><item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
       <title>UNYQ App 1.1.16</title>
       <sparkle:version>58</sparkle:version>
       <sparkle:shortVersionString>1.1.16</sparkle:shortVersionString>
-      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.16-58.dmg" type="application/octet-stream" length="24239549" sparkle:os="macos" sparkle:edSignature="p8I0anWHr9LHxEcWQFXNW099dyJyCtmFqVyK2yBxRe+6GQkiyqOBaMrLbgxP/8VWEvKrXxx2cmRwtCYLkgHMAw==" />
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.16-58.dmg" type="application/octet-stream" length="24239549" sparkle:os="macos" sparkle:edSignature="p8I0anWHr9LHxEcWQFXNW099dyJyCtmFqVyK2yBxRe+6GQkiyqOBaMrLbgxP/8VWEvKrXxx2cmRwtCYLkgHMAw=="/>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
 
@@ -21,9 +25,9 @@
       <title>UNYQ App 1.1.15</title>
       <sparkle:version>57</sparkle:version>
       <sparkle:shortVersionString>1.1.15</sparkle:shortVersionString>
-      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.15-57.dmg" type="application/octet-stream" length="24223840" sparkle:os="macos" sparkle:edSignature="gPZLtsfEtoWKSiRGjk/vmXBK0pgd8Wxkuv3UAZvrwe2jnZnxjyui6UPLzLtgjhVhavoidjP0xc3awl7ZbUlGDg==" />
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.15-57.dmg" type="application/octet-stream" length="24223840" sparkle:os="macos" sparkle:edSignature="gPZLtsfEtoWKSiRGjk/vmXBK0pgd8Wxkuv3UAZvrwe2jnZnxjyui6UPLzLtgjhVhavoidjP0xc3awl7ZbUlGDg=="/>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
 
@@ -31,18 +35,18 @@
       <title>UNYQ App 1.1.14</title>
       <sparkle:version>56</sparkle:version>
       <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
-      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.14-56.dmg" type="application/octet-stream" length="24218091" sparkle:os="macos" sparkle:edSignature="wScEs5gkZUgKHhJrTfLt5qHWoZLrHZJbne7QhQkS/4BoTfvLI4Mxxwa5rFfyEmjKlyvzjekbnpK3dINWhzQIDA==" />
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.14-56.dmg" type="application/octet-stream" length="24218091" sparkle:os="macos" sparkle:edSignature="wScEs5gkZUgKHhJrTfLt5qHWoZLrHZJbne7QhQkS/4BoTfvLI4Mxxwa5rFfyEmjKlyvzjekbnpK3dINWhzQIDA=="/>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
     <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
       <title>UNYQ App 1.1.12</title>
       <sparkle:version>55</sparkle:version>
       <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
-      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.12-55.dmg" type="application/octet-stream" length="24199600" sparkle:os="macos" sparkle:edSignature="EeNpLjB2ewCSm3NxYDQpBGnlBHYEQVjvoQ2As31WdKNw+A8cuGrjduILbF0uLKTc00HsOq+If/qobR/DqbPpCg==" />
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.12-55.dmg" type="application/octet-stream" length="24199600" sparkle:os="macos" sparkle:edSignature="EeNpLjB2ewCSm3NxYDQpBGnlBHYEQVjvoQ2As31WdKNw+A8cuGrjduILbF0uLKTc00HsOq+If/qobR/DqbPpCg=="/>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
 
@@ -52,7 +56,7 @@
       <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
       <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.11-54.dmg" type="application/octet-stream" length="24196053" sparkle:os="macos" sparkle:edSignature="UVBC/JV2HZpiGvFBPXAjdFqI/OO+IgPfc1ctX4PogbV/LbkFMgmurzS4ngXUopOHgNDzPG523nVAV6BTf7L5BQ=="/>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
 
@@ -60,9 +64,9 @@
       <title>UNYQ App 1.1.10</title>
       <sparkle:version>53</sparkle:version>
       <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
-      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.10-53.dmg" type="application/octet-stream" length="24195923" sparkle:os="macos" sparkle:edSignature="TcQbIih4O8gNXHI/9WSQ7mfSqmOboZ0xRoLEsLHBwNy8+1HhBCAnYfZU6GVL1mSbGL4DCafJbi2gd17wYPv0Dg==" />
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.10-53.dmg" type="application/octet-stream" length="24195923" sparkle:os="macos" sparkle:edSignature="TcQbIih4O8gNXHI/9WSQ7mfSqmOboZ0xRoLEsLHBwNy8+1HhBCAnYfZU6GVL1mSbGL4DCafJbi2gd17wYPv0Dg=="/>
       <sparkle:tags>
-        <sparkle:criticalUpdate />
+        <sparkle:criticalUpdate/>
       </sparkle:tags>
     </item>
 
@@ -70,7 +74,7 @@
       <title>UNYQ App 1.1.9</title>
       <sparkle:version>52</sparkle:version>
       <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
-      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.9-52.dmg" type="application/octet-stream" length="24195689" sparkle:os="macos" sparkle:edSignature="WKXC/Ny4QrfZ1mDVYqzr6Jf8LYjRpGulcPwVYRW9hmltMno9DeS7GfvKj/TlSE8gK19E1ECRQbeqRuhZw2K/CQ==" />
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.9-52.dmg" type="application/octet-stream" length="24195689" sparkle:os="macos" sparkle:edSignature="WKXC/Ny4QrfZ1mDVYqzr6Jf8LYjRpGulcPwVYRW9hmltMno9DeS7GfvKj/TlSE8gK19E1ECRQbeqRuhZw2K/CQ=="/>
     </item>
 
   </channel>
