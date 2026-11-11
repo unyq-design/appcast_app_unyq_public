@@ -6,6 +6,11 @@
     <language>en</language>
 
     <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <title>UNYQ App 1.1.21</title>
+  <sparkle:version>1.1.21.63</sparkle:version>
+  <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
+  <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/windows/releases/UNYQ-APP-test-1.1.21-63.exe" type="application/x-msdownload" length="20681650" sparkle:os="windows" sparkle:edSignature="N/UjG4U/xhC2n9/Ucw4ciaYDbb/KIJi0/qwBiYlRDJjEk1SO/n5r5OYPG0FNPEEB0//yBTVr7KL6t2M+eg86Bg=="/>
+<sparkle:tags><sparkle:criticalUpdate/></sparkle:tags></item><item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <title>UNYQ App 1.1.20</title>
   <sparkle:version>1.1.20.62</sparkle:version>
   <sparkle:shortVersionString>1.1.20</sparkle:shortVersionString>
