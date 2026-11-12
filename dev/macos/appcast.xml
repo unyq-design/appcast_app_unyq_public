@@ -6,6 +6,11 @@
     <language>en</language>
 
     <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <title>UNYQ App 1.1.22</title>
+  <sparkle:version>64</sparkle:version>
+  <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+  <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/dev/macos/releases/UNYQ-APP-test-1.1.22-64.dmg" type="application/octet-stream" length="24249477" sparkle:os="macos" sparkle:edSignature="wY310W3cifX587WeUT3ehI+J7D+rWfffx0MU/AUsl92xGCcT7NcEjgVwwGCxh9FR39wf+gO84PXzH69cejxRDQ=="/>
+<sparkle:tags><sparkle:criticalUpdate/></sparkle:tags></item><item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <title>UNYQ App 1.1.21</title>
   <sparkle:version>63</sparkle:version>
   <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
