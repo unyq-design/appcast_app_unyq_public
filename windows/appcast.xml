@@ -1,0 +1,19 @@
+<?xml version="1.0" ?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UNYQ App</title>
+    <link>https://github.com/unyq-design/appcast_app_unyq_public/tree/main/windows</link>
+    <description>UNYQ App Updates (Windows)</description>
+    <language>en</language>
+
+    <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+      <title>UNYQ App 1.1.22</title>
+      <sparkle:version>1.1.22.64</sparkle:version>
+      <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+      <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/windows/releases/UNYQ-APP-prod-1.1.22-64.exe" type="application/x-msdownload" length="20692242" sparkle:os="windows" sparkle:edSignature="ESMqcnac0Y9LPRhmLKWjZhJ0OhTpzgbWiwU7tCH1IrvTpxc+gt8VbqRxthccjEF1SF8dpRNvJP/ms6AZL6M0Bg=="/>
+      <sparkle:tags>
+        <sparkle:criticalUpdate/>
+      </sparkle:tags>
+      <description>First UNYQ APP Windows Desktop Version, supporting both photo and 3d scanning ordering process.</description>
+    </item>
+  </channel>
+</rss>
