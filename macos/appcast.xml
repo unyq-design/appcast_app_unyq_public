@@ -1,0 +1,19 @@
+<?xml version="1.0" ?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>UNYQ App</title>
+    <link>https://github.com/unyq-design/appcast_app_unyq_public/tree/main/dev/macos</link>
+    <description>UNYQ App Updates (macOS - dev)</description>
+    <language>en</language>
+
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+            <title>UNYQ App 1.1.22</title>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+            <enclosure url="https://raw.githubusercontent.com/unyq-design/appcast_app_unyq_public/refs/heads/main/macos/releases/UNYQ-APP-prod-1.1.22-64.dmg" type="application/octet-stream" length="24200446" sparkle:os="macos" sparkle:edSignature="1lkxo0MMq3lltEihi/q8+VymZ2NP/fHsgXRBw9NtfIFCYmE7qygMV0smr6oMNjRHTemOuuhAgOVDS54BRaDMAA=="/>
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <description>First UNYQ APP MacOS Desktop Version, supporting both photo and 3d scanning ordering process.</description>
+        </item>
+  </channel>
+</rss>
